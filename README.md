@@ -1,0 +1,2 @@
+# PrototypingMaze
+School project
